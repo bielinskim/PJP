@@ -1,0 +1,4 @@
+Groovy	Nowak Anna	Kowalski Piotr	Kowalczyk Malgorzata
+Grails	Wisniewska Katarzyna	Wojcik Michal	Kaminski Krzysztof
+Java	Lewandowska Agnieszka	Zielinski Tomasz	Szymanska Joanna
+JEE	Dabrowski Pawel	Kowalski Piotr	Wojcik Michal	Szymanska Joanna

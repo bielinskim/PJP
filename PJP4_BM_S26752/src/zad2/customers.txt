@@ -1,0 +1,9 @@
+c00001;Kowalski Jan;bułka;2;100
+c00002;Nowak Anna;mleko;3;50
+c00001;Kowalski Jan;jajka;1.5;30
+c00003;Dabrowski Pawel;chleb;2.5;40
+c00002;Nowak Anna;masło;5;10
+c00001;Kowalski Jan;ser;8;15
+c00003;Dabrowski Pawel;woda;1;200
+c00002;Nowak Anna;cola;4;25
+c00003;Dabrowski Pawel;herbata;3;20

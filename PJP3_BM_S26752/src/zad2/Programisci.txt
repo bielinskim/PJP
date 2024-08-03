@@ -1,0 +1,11 @@
+Nowak Anna	Groovy
+Kowalski Piotr	Groovy	JEE
+Kowalczyk Malgorzata	Groovy
+Wisniewska Katarzyna	Grails
+Wojcik Michal	Grails	JEE
+Kaminski Krzysztof	Grails
+Lewandowska Agnieszka	Java
+Zielinski Tomasz	Java
+Szymanska Joanna	Java
+Dabrowski Pawel	JEE
+Szymanska Joanna	JEE
